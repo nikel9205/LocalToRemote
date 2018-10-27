@@ -1,0 +1,8 @@
+diff a/LocalToRemote/src/test/LocalToRemote.java b/LocalToRemote/src/test/LocalToRemote.java	(rejected hunks)
+@@ -3,5 +3,6 @@
+ public class LocalToRemote {
+ 	public static void main(String[] args) {
+ 		//������Ʈ ����
++		// �ι�° Ŀ��
+ 	}
+ }
